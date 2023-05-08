@@ -31,3 +31,7 @@ This is a basic project taking data from an api from templeosrs.com a hiscores t
 # Weekly gains
 
 ![](https://github.com/JackyKKHo/Templeosrs/blob/main/Images/download.png)
+
+# Interactive heatmap via plotly
+
+![](https://github.com/JackyKKHo/Templeosrs/blob/main/Images/heatmap.png)
